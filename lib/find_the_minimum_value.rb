@@ -1,6 +1,4 @@
 def find_min_value(array)
-
-
    puts scale.min
    puts scale_2.min
    puts hill.min
