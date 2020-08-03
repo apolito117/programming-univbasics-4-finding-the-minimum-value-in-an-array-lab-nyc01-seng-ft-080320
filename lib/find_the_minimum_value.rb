@@ -18,3 +18,5 @@ def loop_thru_array(array)
     puts array[index]
   end
 end
+
+loop_thru_array[5,10,15,20]
