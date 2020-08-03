@@ -19,4 +19,4 @@ def loop_thru_array(array)
   end
 end
 
-loop_thru_array[5,10,15,20]
+loop_thru_array([5,10,15,20])
