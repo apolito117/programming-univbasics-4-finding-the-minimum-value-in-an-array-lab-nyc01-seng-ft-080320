@@ -17,6 +17,7 @@ def loop_thru_array(array)
   while index < array.length do
     puts array[index]
   end
+  index = index +1
 end
 
 loop_thru_array([5,10,15,20])
