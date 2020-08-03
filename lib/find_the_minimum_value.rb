@@ -5,3 +5,5 @@ def find_min_value(array)
    puts valley.min
    puts zig_zag.min
 end
+
+find_min_value
