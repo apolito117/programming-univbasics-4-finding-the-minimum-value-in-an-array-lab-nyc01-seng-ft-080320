@@ -11,3 +11,10 @@ def find_min_value(array)
 end
 
 find_min_value ([1,2,3,4,5,4,3,2,1])
+
+def loop_thru_array(array)
+  index = 0
+  while index < array.length do
+    puts array[index]
+  end
+end
